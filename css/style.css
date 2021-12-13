@@ -17,17 +17,13 @@ body, html {
 
 .btn { text-transform: lowercase; }
 
-.bg-dark { background: #161b22 !important; }
-.text-dark { color:  #161b22 !important; }
+.bg-info { background: #193346 !important; }
+.text-info { color: #3B79CF !important; }
+.border-info { border-color: #2A62AF !important }
+.btn-info { background: #2A62AF !important; }
+.btn-info:hover, .btn-info:active, .btn.active { background: #3B79CF !important; }
 
-.bg-info { background: #132339 !important; }
-.text-info { color: #132339 !important; }
-.text-info-light { color: #214c87 !important; }
-.border-info { border-color: #214c87 !important }
-.btn-info { background: #132339 !important; }
-.btn-info:hover, .btn-info:active, .btn.active { background: #214c87 !important; }
-
-.bg-dark { color: #f5f5f5 !important; }
+.bg-dark { color: #3b3b3b !important; }
 .text-light { color: #f5f5f5 !important; }
 
 .fade-in { animation: fade-in 3s; }
