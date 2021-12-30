@@ -18,10 +18,10 @@ body, html {
 .btn { text-transform: lowercase; }
 
 .bg-info { background: #193346 !important; }
-.text-info { color: #3B79CF !important; }
-.border-info { border-color: #2A62AF !important }
-.btn-info { background: #2A62AF !important; }
-.btn-info:hover, .btn-info:active, .btn.active { background: #3B79CF !important; }
+.text-info { color: #B6300B !important; }
+.border-info { border-color: #B6300B !important }
+.btn-info { background: #832208 !important; }
+.btn-info:hover, .btn-info:active, .btn.active { background: #B6300B !important; }
 
 .bg-dark { color: #3b3b3b !important; }
 .text-light { color: #f5f5f5 !important; }
