@@ -40,8 +40,8 @@
 			<h3 class="text-center my-3">p a g e s</h3>
 
 			<div class="col-md-4">
-				<div class="m-1 rounded bg-info border border-info">
-					<div class="w-100 bg-light" style="border-top-left-radius: 2px; border-top-right-radius: 2px; height: 200px; background: url('https://codeweek.eu/img/2021/challenges/thumbnails/paper-circuit.png'); background-position: center;">
+				<div class="m-1 rounded bg-dark-d border border-info">
+					<div class="w-100 bg-light main-box" style="background: url('https://codeweek.eu/img/2021/challenges/thumbnails/paper-circuit.png'); background-position: center;">
 					</div>
 
 					<button class="btn btn-info m-2">preview</button>
@@ -49,8 +49,8 @@
 			</div>
 
 			<div class="col-md-4">
-				<div class="m-1 rounded bg-info border border-info">
-					<div class="w-100 bg-light" style="border-top-left-radius: 2px; border-top-right-radius: 2px; height: 200px; background: url('https://codeweek.eu/img/2021/challenges/thumbnails/paper-circuit.png'); background-position: center;">
+				<div class="m-1 rounded bg-dark-d border border-info">
+					<div class="w-100 bg-light main-box" style="background: url('https://codeweek.eu/img/2021/challenges/thumbnails/paper-circuit.png'); background-position: center;">
 					</div>
 
 					<button class="btn btn-info m-2">preview</button>
@@ -58,8 +58,8 @@
 			</div>
 
 			<div class="col-md-4">
-				<div class="m-1 rounded bg-info border border-info">
-					<div class="w-100 bg-light" style="border-top-left-radius: 2px; border-top-right-radius: 2px; height: 200px; background: url('https://codeweek.eu/img/2021/challenges/thumbnails/paper-circuit.png'); background-position: center;">
+				<div class="m-1 rounded bg-dark-d border border-info">
+					<div class="w-100 bg-light main-box" style="background: url('https://codeweek.eu/img/2021/challenges/thumbnails/paper-circuit.png'); background-position: center;">
 					</div>
 
 					<button class="btn btn-info m-2">preview</button>

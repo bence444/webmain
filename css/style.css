@@ -17,14 +17,14 @@ body, html {
 
 .btn { text-transform: lowercase; }
 
-.bg-info { background: #193346 !important; }
+.bg-info { background: #B6300B !important; }
 .text-info { color: #B6300B !important; }
-.border-info { border-color: #B6300B !important }
+.border-info { border-color: #B6300B !important; }
 .btn-info { background: #832208 !important; }
 .btn-info:hover, .btn-info:active, .btn.active { background: #B6300B !important; }
 
-.bg-dark { color: #3b3b3b !important; }
-.text-light { color: #f5f5f5 !important; }
+.bg-dark { background: #363636 !important; }
+.bg-dark-d { background: #303030 !important; }
 
 .fade-in { animation: fade-in 3s; }
 .slide-fade-in { animation: slide-in 2s; }
@@ -40,3 +40,9 @@ body, html {
 }
 
 .cursor { cursor: pointer; }
+
+.main-box {
+	border-top-left-radius: 2px;
+	border-top-right-radius: 2px;
+	height: 200px;
+}
